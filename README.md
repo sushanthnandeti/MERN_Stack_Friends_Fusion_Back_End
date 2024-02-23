@@ -13,7 +13,7 @@ The backend implements secure user authentication using JSON Web Tokens (JWT) an
 
 To run the Friend Fusion backend locally, follow these steps:
 
-1. Clone the repository:
+## 1. Clone the repository:
 
    git clone https://github.com/your-username/friend-fusion-backend.git
    cd friend-fusion-backend
@@ -21,7 +21,7 @@ To run the Friend Fusion backend locally, follow these steps:
    npm start
 
 
-2. Contributing
+## 2. Contributing
    Fork the repository
    Create a new branch for your feature or bug fix
    git checkout -b feature-name
