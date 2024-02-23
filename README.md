@@ -16,17 +16,27 @@ To run the Friend Fusion backend locally, follow these steps:
 ## 1. Clone the repository:
 
    git clone https://github.com/your-username/friend-fusion-backend.git
+   
    cd friend-fusion-backend
+   
    npm install
+   
    npm start
 
 
 ## 2. Contributing
    Fork the repository
-   Create a new branch for your feature or bug fix
+   
+  # Create a new branch for your feature or bug fix
+   
    git checkout -b feature-name
-   Make your changes and commit them
+   
+   #Make your changes and commit them
+   
    git commit -m "Description of your changes"
-   Push to your forked repository:
+
+  # Push to your forked repository:
+   
    git push origin feature-name
+   
    Create a pull request on the original repository's main branch.
