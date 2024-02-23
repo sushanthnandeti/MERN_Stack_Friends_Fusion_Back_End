@@ -19,9 +19,8 @@ To run the Friend Fusion backend locally, follow these steps:
    
    cd friend-fusion-backend
    
-   npm install
-   
-   npm start
+   node index.js
+
 
 
 ## 2. Contributing
