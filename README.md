@@ -6,9 +6,8 @@ The Friend Fusion social media app backend provides the server-side functionalit
 
 This backend is built using Node.js with Express.js for handling HTTP requests and MongoDB as the database for storing user data, posts, and other related information. It follows a RESTful architecture to provide endpoints for various functionalities, such as user authentication, post creation, post retrieval, liking posts, and more.
 
-The backend implements secure user authentication using JSON Web Tokens (JWT) and bcrypt for password hashing. It ensures data integrity and security by validating and sanitizing incoming requests, handling errors gracefully, and implementing role-based access control (RBAC) to restrict access to certain endpoints.
+The backend implements secure user authentication using JSON Web Tokens (JWT) and bcrypt for password hashing. It ensures data integrity and security by validating and sanitizing incoming requests and  handling errors.
 
-This README file serves as a guide for developers working on the backend codebase of the Friend Fusion social media app. It provides instructions for setting up the development environment, running the server locally, and contributing to the codebase.
 
 ## Installation
 
