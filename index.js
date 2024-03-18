@@ -70,11 +70,11 @@ mongoose.
         useNewUrlParser: true,
         useUnifiedTopology: true,
     }).then(()=>  {
-            app.listen(PORT, () => console.log(`Server Port : ${PORT}`));
+            app.listen(PORT, () => console.log(`Server is running on : ${PORT}`));
 
         // ADD DATA ONLY ONCE
-        User.insertMany(users);
-        Post.insertMany(posts);
+        //User.insertMany(users);
+        //Post.insertMany(posts);
     }).catch((error)=> {
         console.log(`${error} did not connect`);
     })
